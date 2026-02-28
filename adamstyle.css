@@ -1,21 +1,19 @@
 head{
-    background-color: #715e5e;
-    text-decoration-color: antiquewhite;
-}
+    background-color: aqua;
+    height: 10%;
+    width: 100%;
+    }
 
 body{
     background-color: #000000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text: white
+    
     }
 
-p{
-}
 
 footer{
     background-color: aqua;
     height: 10%;
     width: 100%
-    text-align: center;
-    text: black;
-}
+    
+    }

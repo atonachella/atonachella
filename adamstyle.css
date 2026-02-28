@@ -1,27 +1,29 @@
-head{
+header{
+   text-align: center;
     background-color: aqua;
     height: 10%;
     width: 100%;
     }
-
 h1{
     font-size: 3em;
-    font
-}  
+    color: antiquewhite;
+    }  
 h3{
     font-size: 1.5em;
-}  
-
+    color: white;
+    }  
 body{
     background-color: #000000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
     }
-
-
 footer{
     background-color: aqua;
     height: 10%;
     width: 100%
-    
+    }
+    p{
+        color: white;
+    }
+    li{
+        color: white;
     }

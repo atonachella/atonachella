@@ -1,10 +1,13 @@
 head{
-    background-color: #000000;
+    background-color: #715e5e;
+    text-decoration-color: aliceblue;
+    text-align: center;
 }
 
 body{
     background-color: #000000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-color: aliceblue;
     }
 
 p{
@@ -13,4 +16,5 @@ p{
 footer{
     background-color: aqua;
     text-align: center;
+    text-decoration-color: #000000;
 }

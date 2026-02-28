@@ -1,6 +1,16 @@
-.body{
-
+head{
     background-color: #000000;
+}
 
+body{
+    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
 
+p{
+}
+
+footer{
+    background-color: aqua;
+    text-align: center;
 }

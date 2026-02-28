@@ -4,6 +4,14 @@ head{
     width: 100%;
     }
 
+h1{
+    font-size: 3em;
+    font
+}  
+h3{
+    font-size: 1.5em;
+}  
+
 body{
     background-color: #000000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;

@@ -1,5 +1,5 @@
 header{
-   text-align: center;
+    text-align: center;
     background-color: aqua;
     height: 10%;
     width: 100%;
@@ -17,9 +17,11 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 footer{
+    text-align: center;
     background-color: aqua;
     height: 10%;
     width: 100%
+
     }
     p{
         color: white;

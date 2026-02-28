@@ -1,13 +1,12 @@
 header{
     background-color: #715e5e;
-    text-decoration-color: aliceblue;
-    text-align: center;
+    text-decoration-color: antiquewhite;
 }
 
 body{
     background-color: #000000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-decoration-color: aliceblue;
+    text: white
     }
 
 p{
@@ -15,6 +14,8 @@ p{
 
 footer{
     background-color: aqua;
+    height: 10%;
+    width: 100%
     text-align: center;
-    text-decoration-color: #000000;
+    text: black;
 }

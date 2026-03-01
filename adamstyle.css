@@ -67,7 +67,6 @@ p{
 .divTableBody { display: table-row-group;}
 
 footer{
-    position:fixed;
     text-align: center;
     background-color: aqua;
     height: 90%;

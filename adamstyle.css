@@ -18,7 +18,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 .buttons{
-    width:30%
+    box-shadow: 2px 2px 7px 1px #000000;
     
 }
 footer{

@@ -29,3 +29,39 @@ footer{
     li{
         color: white;
     }
+
+    div.Idfk {
+  font-family: "Arial Black", Gadget, sans-serif;
+  border: 1px solid #FFFFFF;
+  background-color: #000000;
+  text-align: center;
+}
+.divTable.Idfk .divTableCell, .divTable.Idfk .divTableHead {
+  padding: 3px 2px;
+}
+.divTable.Idfk .divTableBody .divTableCell {
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.divTable.Idfk .divTableHeading {
+  background: #000000;
+  border-bottom: 2px solid #444444;
+}
+.divTable.Idfk .divTableHeading .divTableHead {
+  font-size: 21px;
+  color: #FFFFFF;
+  text-align: center;
+  border-left: 2px solid #D0E4F5;
+}
+.divTable.Idfk .divTableHeading .divTableHead:first-child {
+  border-left: none;
+}
+
+/* HTMLtable.com */
+.divTable{ display: table; }
+.divTableRow { display: table-row; }
+.divTableHeading { display: table-header-group;}
+.divTableCell, .divTableHead { display: table-cell;}
+.divTableHeading { display: table-header-group;}
+.divTableFoot { display: table-footer-group;}
+.divTableBody { display: table-row-group;}

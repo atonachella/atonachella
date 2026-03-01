@@ -16,6 +16,10 @@ body{
     background-color: #000000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
+.buttons{
+    width:30%
+    
+}
 footer{
     text-align: center;
     background-color: aqua;
@@ -57,7 +61,6 @@ footer{
   border-left: none;
 }
 
-/* HTMLtable.com */
 .divTable{ display: table; }
 .divTableRow { display: table-row; }
 .divTableHeading { display: table-header-group;}
@@ -65,3 +68,4 @@ footer{
 .divTableHeading { display: table-header-group;}
 .divTableFoot { display: table-footer-group;}
 .divTableBody { display: table-row-group;}
+

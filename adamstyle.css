@@ -21,15 +21,7 @@ body{
     }
 .buttons{
     box-shadow: 2px 2px 7px 1px #000000;
-    }
-
-footer{
-    position: fixed;
-    text-align: center;
-    background-color: aqua;
-    height: 10%;
-    width: 100%
-    }
+}
 
 p{
         color: white;
@@ -74,3 +66,10 @@ p{
 .divTableFoot { display: table-footer-group;}
 .divTableBody { display: table-row-group;}
 
+footer{
+    position: fixed;
+    text-align: center;
+    background-color: aqua;
+    height: 10%;
+    width: 100%
+    }

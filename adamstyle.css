@@ -1,8 +1,13 @@
-.body{
+header{
+
+  background-color: black;
+
+}
+
+body{
 
   background-color: black;
   
-
 }
 
 
@@ -10,5 +15,11 @@
 
   background-color: gray;
 
-  
+
+}
+
+footer{
+
+  background-color: black;
+
 }

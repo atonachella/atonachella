@@ -2,9 +2,15 @@ header{
 
   color: white;
   background-color: black;
+  justify-content: center;
 
 }
 
+h1{
+
+  justify-content: center;
+  
+}
 body{
 
   color: white;
@@ -14,15 +20,17 @@ body{
 
 
 .container {
-
   background-color: gray;
+  }
 
 
-}
+
+
 
 footer{
 
   color: white;
   background-color: black;
+  justify-content: center;
 
 }

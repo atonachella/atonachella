@@ -13,6 +13,22 @@ header{
   width: 50px;
 
 }
+
+#button1{
+
+  justify-content: left;
+
+}
+#button2{
+
+  justify-content: right;
+
+}
+#button3{
+
+  justify-content: right;
+
+}
 h1{
 
   align-items: center;

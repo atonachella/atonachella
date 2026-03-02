@@ -1,2 +1,33 @@
+.header {
+  
+  color: white;
+  background-color: black;
+  align-content:center;
+
+}
+
+.container {
+
+  background-color: gray;
+  color:black;
+
+}
+
+.box {
+
+  
+
+}
+
+
+
+.footer {
+
+  color: white;
+  background-color: black;
+  align-content: center;
+}
+
+
 
 /* This file is in CSS */

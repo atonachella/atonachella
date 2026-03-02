@@ -3,9 +3,16 @@ header{
   color: white;
   background-color: black;
   text-align: center;
+  width: 100%;
+  position:fixed
 
 }
+.button{
 
+  height: 20px;
+  width: 50px;
+
+}
 h1{
 
   align-items: center;
@@ -39,7 +46,6 @@ body{
   font-size: 1.5em;
   text-align: center;
   border: 5px;
-  border-color: blueviolet;
   border-radius: 25px;
   padding: 40px;
   margin: 15px;

@@ -22,6 +22,8 @@ body{
 .container {
   
   display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: gray;
   border: 10px;
   height: 350px;

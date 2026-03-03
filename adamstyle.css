@@ -12,7 +12,7 @@ header{
   display: flex;
   height: 50;
   width: 85%;
-  align-items: center;
+  
   
   
   
@@ -26,6 +26,7 @@ header{
   background-color: rgb(156, 163, 163);
   color: black;
   border-radius: 5px;
+  text-align: center;
 
 }
 
@@ -34,7 +35,8 @@ header{
   border: 2px; 
   padding:2px; 
   margin: 2px; 
-  
+  align: right;
+
 
 }
 #button2{
@@ -42,23 +44,24 @@ header{
   border: 2px; 
   padding:2px; 
   margin: 2px; 
-  
+  align: left;
   
 }#button3{
 
   border: 2px; 
   padding:2px;
   margin: 2px; 
-  
+  align:left
 }
 
 h1{
 
   color: #a3a3a3;
   text-align: center;
- 
+  
   
 }
+
 body{
 
   color: white;
@@ -94,8 +97,8 @@ body{
 }
 .box:hover{
   transition: transform 0.3s ease;
-  transform: scale(1.2);
-  background-color: dimgray;
+  transform: scale(1.1);
+  transform: background-color: rgb(235, 232, 232);
 
 }
 

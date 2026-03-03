@@ -10,17 +10,17 @@ header{
 .button{
 
   height: 20px;
-  width: relative;
-  background-color: aqua;
+  width: 120px;
+  background-color: rgb(156, 163, 163);
   color: black;
 
 }
 
 #button1{
 
-
-
-
+  padding:20px;
+  
+  
 }
 
 

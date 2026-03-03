@@ -10,28 +10,25 @@ header{
 .button{
 
   height: 20px;
-  width: 50px;
+  width: relative;
+  background-color: aqua;
+  color: black;
 
 }
 
 #button1{
 
-  justify-content: left;
+
+
 
 }
-#button2{
 
-  justify-content: right;
 
-}
-#button3{
 
-  justify-content: right;
-
-}
 h1{
 
-  align-items: center;
+  color: #a41414;
+  text-align: center;
   
 }
 body{

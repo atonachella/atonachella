@@ -29,30 +29,31 @@ header{
 
 #button1{
 
-  padding:20px;
-  margin: 2px;
-  
-  
-  
+  border: 2px; color: aliceblue;
+  padding:2px; color: #a41414;
+  margin: 2px; color: aqua;
+
 }
 #button2{
 
-  padding:20px;
+  border: 2px; color: aliceblue;
+  padding:2px; color: #a41414;
+  margin: 2px; color: aqua;
   
   
 }#button3{
 
-  padding:20px;
-  
+  border: 2px; color: aliceblue;
+  padding:2px; color: #a41414;
+  margin: 2px; color: aqua;
   
 }
 
-
-
 h1{
 
-  color: #a41414;
+  color: #a3a3a3;
   text-align: center;
+  text-decoration-style: underline;
   
 }
 body{

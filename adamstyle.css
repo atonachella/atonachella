@@ -98,7 +98,7 @@ body{
 
 .box::before{
 
-  content: "boxlight";
+  content: "";
   position: absolute;
   height: 100%;
   width: 100%;
@@ -111,7 +111,7 @@ body{
 
 .box::after{
 
-  content: "boxlight";
+  content: "";
   position: absolute;
   height: 100%;
   width: 100%;

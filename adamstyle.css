@@ -103,21 +103,6 @@ body{
   
 }
 
-.box::after{
-
-  content: ;
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  background: red;
-  top:50%;
-  left:50%;
-  translate: -50%,-50%;
-  z-index: i1;
-  padding: 30px;
-
-}
-
 
 #box1{
 

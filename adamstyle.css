@@ -4,7 +4,7 @@ header{
   background-color: black;
   text-align: center;
   width: 100%;
-  position:fixed
+  
 
 }
 .button{
@@ -17,6 +17,17 @@ header{
 }
 
 #button1{
+
+  padding:20px;
+  
+  
+}
+#button2{
+
+  padding:20px;
+  
+  
+}#button3{
 
   padding:20px;
   

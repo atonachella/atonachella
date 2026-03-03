@@ -13,11 +13,7 @@ header{
   height: 50;
   width: 85%;
   
-  
-  
-  
 }
-
 
 .button{
   font-size: .8em;
@@ -29,6 +25,7 @@ header{
   text-align: center;
 
 }
+
 .button:hover{
   transition: transform 0.3s ease;
   transform: scale(1.1);
@@ -40,30 +37,29 @@ header{
   border: 2px; 
   padding:2px; 
   margin: 2px; 
-  align: right;
-
 
 }
+
 #button2{
 
   border: 2px; 
   padding:2px; 
   margin: 2px; 
-  align: left;
   
-}#button3{
+}
+
+#button3{
 
   border: 2px; 
   padding:2px;
   margin: 2px; 
-  align:left
+
 }
 
 h1{
 
   color: #a3a3a3;
   text-align: center;
-  
   
 }
 
@@ -72,8 +68,8 @@ body{
   color: white;
   background-color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
+}
 
 .container {
   
@@ -84,7 +80,6 @@ body{
   border: 10px;
   height: 300px;
   width: 100%;
-  
   
 }
 
@@ -101,6 +96,7 @@ body{
 
 }
 .box:hover{
+
   transition: transform 0.3s ease;
   transform: scale(1.1);
   
@@ -111,20 +107,19 @@ body{
   background-color: black;
   color: white;
   
-  
 }
+
 #box2{
 
   background-color: black;
   color: white;
-  
-  
+    
 }
+
 #box3{
 
   background-color: black;
   color: white;
-  
   
 }
 

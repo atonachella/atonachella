@@ -34,7 +34,7 @@ header{
   border: 2px; 
   padding:2px; 
   margin: 2px; 
-  align-items: flex-start;
+  
 
 }
 #button2{
@@ -42,14 +42,14 @@ header{
   border: 2px; 
   padding:2px; 
   margin: 2px; 
-  align-items: end;
+  
   
 }#button3{
 
   border: 2px; 
   padding:2px;
   margin: 2px; 
-  align-items: flex-end;
+  
 }
 
 h1{

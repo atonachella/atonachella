@@ -9,20 +9,20 @@ header{
 }
 p{
    
- margin: 10%;
+ margin: 10%,0,10%,0;
  text-align: justify;
- line-height: 0.9;
- border: 10px,
- 
+ line-height: 1.1;
+ border: 10px, white;
+ border-radius: 7px;
 
 
 }
 .container2{
   display: flex;
-  height: 50;
+  height: relative;
   width: 85%;
   
-  
+
 }
 
 .button{
@@ -39,10 +39,9 @@ p{
 .button:hover{
   transition: transform 0.3s ease;
   transform: scale(1.0);
-  box-shadow: 0,5px,17px rgba 0,0,0,0.4;
+  box-shadow: 0,5px,17px, white;
   transform: translateY(-2px)
 
-  
   
 }
 
@@ -50,8 +49,7 @@ p{
 
   border: 4px; 
   padding:10px; 
-  margin-left: auto; 
-  
+   
 
 }
 
@@ -59,17 +57,14 @@ p{
 
   border: 4px; 
   padding:10px; 
-  margin-right: auto; 
-  
+   
 }
 
 #button3{
 
   border: 4px; 
   padding:10px;
-  margin-right: auto; 
-
-
+  
 }
 
 h1{
@@ -103,7 +98,7 @@ body{
 
   width: 300px;
   height:150px;
-  font-size: 1.5em;
+  font-size: 1.1em;
   text-align: center;
   border: 5px;
   border-radius: 25px;

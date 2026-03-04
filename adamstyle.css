@@ -69,7 +69,7 @@ p{
 
   border: 4px; 
   padding:2px; 
-   
+  margin-right: auto;
 
 }
 
@@ -77,14 +77,15 @@ p{
 
   border: 4px; 
   padding:2px; 
-   
+  margin-left: auto;
+  
 }
 
 #button3{
 
   border: 4px; 
   padding:2px;
-  
+  margin-left: auto;
 }
 
 h1{
@@ -142,7 +143,7 @@ body{
 
   background-color: black;
   color: white;
-  margin-right: auto;
+  
 }
 
 #box2{
@@ -156,7 +157,7 @@ body{
 
   background-color: black;
   color: white;
-  margin-left: auto;
+  
 
 }
 

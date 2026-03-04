@@ -23,6 +23,7 @@ p{
    
  margin: 30px, 0, 30px, 0;
  text-align: justify;
+ text-justify: auto;
  line-height: 1.1;
  border: 10px, white;
  border-radius: 7px;
@@ -40,8 +41,10 @@ p{
 }
 
 .button{
-  font-size: .8em;
-  text-align: center;
+  
+  font-size: .9em; 
+  justify-content: center;
+  align-items: center;
   border: 2px; 
   height: 30px;
   width: 140px;
@@ -115,7 +118,8 @@ body{
   width: 300px;
   height:150px;
   font-size: 1.1em;
-  text-align: center;
+  justify-content: center;
+  align-items: center;
   
   border: 5px;
   border-radius: 25px;

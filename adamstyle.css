@@ -22,10 +22,11 @@ hr{
 p{
  
  width: 65%;
+ justify-content: center;
  text-align: center;
- 
+ align-items: center;
  line-height: 1.1;
- 
+ margin: 0 auto;
 
 
 
@@ -35,6 +36,7 @@ p{
   height: relative;
   width: 85%;
   align-items: center;
+  justify-content: center;
     
 
 }

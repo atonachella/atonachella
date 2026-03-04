@@ -4,7 +4,7 @@ header{
   background-color: black;
   text-align: center;
   width: 100%;
-  
+  /* not currently using a header */
 
 }
 
@@ -37,9 +37,9 @@ p{
   justify-content: center;
   align-items: center;
   text-align: center;
-  height: 150px;
-  width: 85%;
-  
+  height: relative;
+  width: 80%;
+  position: fixed;
   
     
 
@@ -50,12 +50,12 @@ p{
   font-size: .9em; 
   justify-content: center;
   text-align: center;
-  align-items: center;
-  border: 2px,2px,2px,2px, red; 
+  align-content: center;
   height: 30px;
   width: 140px;
   background-color: rgb(156, 163, 163);
   color: black;
+  border-style: 2px solid red;
   border-radius: 5px;
   
 
@@ -63,7 +63,7 @@ p{
 
 .button:hover{
   transition: transform 0.3s ease;
-  transform: scale(1.0);
+  transform: scale(1.1);
   box-shadow: 0,5px,17px, white;
   transform: translateY(-2px)
 
@@ -72,24 +72,24 @@ p{
 
 #button1{
 
-  border: 4px; 
-  padding:2px; 
+   
+  padding:0px; 
   margin-right: auto;
 
 }
 
 #button2{
 
-  border: 4px; 
-  padding:2px; 
+  
+  padding:0px; 
   
 
 }
 
 #button3{
 
-  border: 4px; 
-  padding:2px;
+  
+  padding:0px;
   margin-left: auto;
 }
 
@@ -128,13 +128,14 @@ body{
   font-size: 1.1em;
   justify-content: center;
   text-align: center;
-  align-items: center;
+  align-content: center;
   
   border: 5px; color: aqua;
   border-radius: 20px;
-  padding: 1px;
+  padding: 0px;
   margin: 15px;
   box-shadow: 5px,5px,10px;
+
 }
  
 .box:hover{

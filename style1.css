@@ -3,8 +3,9 @@ header{
   color: white;
   background-color: black;
   text-align: center;
-  width: 100%;
-  /* not currently using a header */
+  width: 80%;
+  position: fixed;
+  /* working on a stable header */
 
 }
 
@@ -201,6 +202,6 @@ footer{
   background-color: black;
   text-align: right;
   font-size: .6em;
-  
+  position: fixed;
 
 }  

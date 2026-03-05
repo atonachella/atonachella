@@ -19,19 +19,8 @@ hr{
 
 }
 
-p{
- 
- width: 65%;
- justify-content: center;
- text-align: center;
- align-items: center;
- line-height: 1.1;
- margin: 0 auto;
 
-
-
-}
-.container2{
+.container{
 
   display: flex;
   align-content: center;
@@ -109,10 +98,21 @@ body{
   color: white;
   background-color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+ 
+ width: 65%;
+ justify-content: center;
+ text-align: center;
+ align-items: center;
+ line-height: 1.1;
+ margin: 0 auto;
+
 
 }
 
-.container {
+.container2 {
   
   display: flex;
   align-content: center;

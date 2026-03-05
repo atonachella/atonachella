@@ -147,8 +147,7 @@ p{
   padding: 0px;
   margin: 15px;
   
-  box-shadow: 7px 7px 9px red, 11px 11px 14px blue;
-
+  
 
  
 }
@@ -158,7 +157,8 @@ p{
   transition: transform 0.3s ease-in-out;
   transform: scale(1.1);
    
-  
+  box-shadow: 7px 7px 9px red, 11px 11px 14px blue;
+
 
 }
 

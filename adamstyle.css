@@ -39,6 +39,7 @@ p{
   justify-items: center;
   align-items: center;
   
+  
   height: 35px;
   width: 80%;    
 
@@ -60,6 +61,7 @@ p{
   color: black;
   border: 2px solid red;
   border-radius: 5px;
+  margin: 15px;
   
 
 }

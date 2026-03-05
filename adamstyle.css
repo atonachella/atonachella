@@ -52,7 +52,7 @@ hr{
   border-radius: 5px;
   margin: 15px;
   
-
+  
 }
 
 .button:hover{
@@ -147,6 +147,7 @@ p{
   padding: 0px;
   margin: 15px;
   
+  transition: box-shadow 0.3s, ease-in-out, transform 0.3s ease-in-out;
 
 }
  
@@ -154,7 +155,7 @@ p{
 
   transition: transform 0.3s ease;
   transform: scale(1.1);
-  box-shadow: 15px, whitesmoke;
+  box-shadow: 0 7px 7px 0,rgba(238, 234, 234, 0.3;)
 
 
 }

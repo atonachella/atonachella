@@ -148,18 +148,21 @@ p{
   margin: 15px;
   
 
-  transition: transform 0.3s ease-in-out;
-  transform: scale(1.1);
+ 
+
+
+  transition: box-shadow 0.3s, ease-in-out, transform 0.3s ease-in-out;
+  box-shadow: 0 45px 45px 0,rgba(230, 12, 12, 0.877);
 
  
 }
  
 .box:hover{
 
+  transition: transform 0.3s ease-in-out;
+  transform: scale(1.1);
    
-  transition: box-shadow 0.3s, ease-in-out, transform 0.3s ease-in-out;
-  box-shadow: 0 45px 45px 0,rgba(230, 12, 12, 0.877);
-
+  
 
 }
 

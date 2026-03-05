@@ -38,11 +38,9 @@ p{
   justify-content: center;
   justify-items: center;
   align-items: center;
-  height: 35px;
-  width: 80%;
-  position: fixed;
   
-    
+  height: 35px;
+  width: 80%;    
 
 }
 
@@ -119,6 +117,7 @@ body{
   justify-content: center;
   justify-items: center;
   align-items: center;
+
   background-color: gray;
   
   height: 300px;

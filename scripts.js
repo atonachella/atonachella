@@ -5,12 +5,5 @@ let userSTATE;
     console.log(userSTATE);
 
 
-const item = document.getElementById("box2");
-
-item.addEventListener("mouseenter", function() {
-  item.style.transform = "rotate(360deg)";
-
-});
-
 
 //  Display your notes here

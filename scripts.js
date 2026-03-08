@@ -14,12 +14,12 @@ console.log(username);
 //pro tips...
 
 
-
+let mamahouse
 
 document.getElementById("validate").onclick = function(){
     username = document.getElementById("mamahouse").value;
 
-    console.log(username)
+    console.log(mamahouse)
 
 
 }

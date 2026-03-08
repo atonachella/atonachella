@@ -7,4 +7,9 @@ userSTATE = window.prompt("What state are you from?");
 console.log(userSTATE);
 
 
+
+
+}
+
+
 //  Display your notes here

@@ -14,7 +14,7 @@ console.log(username);
 //pro tips...
 
 
-let username;
+
 
 document.getElementById("validate").onclick = function(){
     username = document.getElementById("mamahouse").value;

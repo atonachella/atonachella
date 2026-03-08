@@ -1,10 +1,18 @@
-console.log(`this is basic testing`);
-console.log(`further confirmation`);
+let originalConsoleLog = console.log;
 
-let username;
+console.log = originalConsoleLog;
 
-username = window.prompt("What neighborhood is your mama from?!?");
+delete console.log;
 
-console.log(username);
+console.log(`Basic Testing Purposes`);
+
+let userSTATE;
+
+username = window.prompt("What state are you from?");
+
+console.log(userSTATE);
+
+
+
 
 //  Display your notes here

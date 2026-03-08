@@ -14,7 +14,7 @@ console.log(username);
 //pro tips...
 
 
-
+let username;
 
 document.getElementById("validate").onclick = function(){
     username = document.getElementById("mamahouse").value;
@@ -22,6 +22,6 @@ document.getElementById("validate").onclick = function(){
     console.log(username)
 
 
-};
+}
 
 //  Display your notes here

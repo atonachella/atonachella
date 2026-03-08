@@ -1,10 +1,15 @@
 header{
-
+  
+  display: flex;
   color: white;
   background-color: black;
   text-align: center;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  align-content: center;
   width: 80%;
-  position: fixed;
+  
   /* working on a stable header */
 
 }

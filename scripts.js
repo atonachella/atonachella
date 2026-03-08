@@ -17,7 +17,9 @@ console.log(username);
 let mamahouse
 
 document.getElementById("validate").onclick = function(){
-    username = document.getElementById("mamahouse").value;
+
+
+    mamahouse = document.getElementById("mamahouse").value;
 
     console.log(mamahouse)
 

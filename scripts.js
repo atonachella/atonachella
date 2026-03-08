@@ -16,6 +16,12 @@ console.log(username);
 
 
 
-document.getElementById("headerjava");
+document.getElementById("validate").onclick = function(){
+    username = document.getElementById("mamahouse").value;
+
+    console.log(username)
+
+
+};
 
 //  Display your notes here

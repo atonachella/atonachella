@@ -7,15 +7,9 @@ let userSTATE;
 
 const item = document.getElementById("box2");
 
-// Add event listeners for mouseenter (hover in) and mouseleave (hover out)
 item.addEventListener("mouseenter", function() {
-  // Apply the rotation transform when the mouse enters
-  item.style.transform = "rotate(180deg)";
-});
+  item.style.transform = "rotate(360deg)";
 
-item.addEventListener("mouseleave", function() {
-  // Revert the transform when the mouse leaves
-  item.style.transform = "rotate(0deg)";
 });
 
 

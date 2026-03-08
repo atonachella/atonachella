@@ -170,7 +170,8 @@ p{
   
 }
 
-#box2{
+#box2
+  .box.disabled-hover:hover{
 
   background-color: black;
   color: white;

@@ -131,8 +131,8 @@ p{
   justify-items: center;
   align-items: center;
   background-color: gray;
-  height: 300px;
-  width: 100%;
+  height: fit-content;
+  width: 85%;
   
 }
 

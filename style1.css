@@ -112,8 +112,7 @@ body{
 }
 
 p{
- 
- display: block;
+ align-self: center;
  width: 75%;
  align-content: center;
  justify-content: center;

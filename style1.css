@@ -73,7 +73,7 @@ line-height: 0.8;
 
   transition: transform 0.3s ease;
   transform: scale(1.1);
-  transform: translateY(-2px);
+  transform: translateY(-4px);
  
 }
 
@@ -160,7 +160,7 @@ p{
 
   transition: transform 0.3s ease-in-out;
   transform: scale(1.1);
-  box-shadow: 7px 7px 9px red, 11px 11px 14px blue;
+  box-shadow: 7px 7px 9px rgb(68, 149, 230), 11px 11px 14px blue;
 
 }
 

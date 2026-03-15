@@ -158,11 +158,19 @@ p{
  
 .box:hover{
 
-  transition: transform 0.5s ease-in-out;
+  transition: transform 0.5s ease-in;
   transform: scale(1.1);
   box-shadow: 7px 7px 9px rgb(68, 149, 230), 11px 11px 14px blue;
 
 }
+
+.box:hover::after{
+
+  transition: transform 0.7s ease-out;
+
+
+}
+
 
 #box1{
 

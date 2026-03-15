@@ -195,20 +195,18 @@ p{
   align-items: center;
   background-color:aquamarine;
   height: fit-content;
-  width: 40%;
+  width: 100%;
 
 }
 
-.container4{
+.labels{
 
-  display: flex;
-  align-content: center;
-  justify-content: right;
-  justify-items: right;
-  align-items: center;
-  background-color: bisque;
-  height: fit-content;
-  width: 40%;
+  color: blueviolet;
+}
+
+.inputs{
+
+  padding: auto;
 
 }
 

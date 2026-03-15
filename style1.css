@@ -201,6 +201,8 @@ p{
   justify-items: center;
   align-items: center;
   background-image: url(images/piano.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   height: fit-content;
   width: 80%%;
 

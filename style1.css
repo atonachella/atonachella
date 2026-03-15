@@ -190,8 +190,8 @@ p{
   color: red;
   display: flex;
   align-content: center;
-  justify-content: left;
-  justify-items: left;
+  justify-content: center;
+  justify-items: center;
   align-items: center;
   background-color:aquamarine;
   height: fit-content;
@@ -208,11 +208,18 @@ ul{
 .labels{
 
   color: blueviolet;
+  align-content: center;
+  justify-content: right;
+  justify-items: right;
+  align-items: center;
 }
 
 .inputs{
 
-  padding: auto;
+  align-content: center;
+  justify-content: left;
+  justify-items: left;
+  align-items: center;
 
 }
 

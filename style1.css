@@ -32,6 +32,13 @@ hr{
 
 }
 
+
+.form{
+
+  align-items: center;
+  align-content: center;
+}
+
 .smallspace{
 
 line-height: 0.7;

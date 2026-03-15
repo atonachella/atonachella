@@ -199,6 +199,12 @@ p{
 
 }
 
+ul{
+
+    list-style-type: none;
+
+}
+
 .labels{
 
   color: blueviolet;

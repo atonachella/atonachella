@@ -113,9 +113,10 @@ body{
 
 p{
  
- width: 85%;
+ width: 100%;
+ align-content: center;
  justify-content: center;
- text-align: center;
+ justify-items: center;
  align-items: center;
  line-height: 1.1;
  margin: 0 auto;

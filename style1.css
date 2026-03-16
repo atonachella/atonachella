@@ -114,8 +114,10 @@ body{
 p{
  
  width: 100%;
- margin-left: 15%;
- margin-right: 15%;
+ text-align: center;
+ text-justify: center;
+ margin-left: 10%;
+ margin-right: 10%;
  
  
 

@@ -114,10 +114,7 @@ body{
   color: white;
   background-color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  align-content: center;
-  justify-content: center;
-  justify-items: center;
-  align-items: center; 
+ 
 
 }
 
@@ -240,11 +237,11 @@ ul{
 
 }
 
-#footer{
+.footer{
 
   color: white;
   background-color: black;
-  text-align: left;
+  text-align: right;
   font-size: .6em;
 
 }  

@@ -213,9 +213,8 @@ ul{
 
 }
 
-.signin-button{
+#signin-button{
 
-  display: flex;
   align-content: center;
   justify-content: center;
   justify-items: center;

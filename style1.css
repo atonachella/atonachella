@@ -197,9 +197,9 @@ p{
 
 footer{
 
-  color: rgb(15, 137, 62);
-  background-color: rgb(138, 54, 54);
-  text-align: center;
+  color: white;
+  background-color: black;
+  text-align: right;
   font-size: .6em;
 
 }  

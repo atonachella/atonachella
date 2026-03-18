@@ -4,16 +4,14 @@ console.log(`Basic Testing for Sign In`);
 
 let username;
 
-let password;
-
 document.getElementById("signinbutton").onclick = function(){
 username = document.getElementById("username").ariaValueMax;
 console.log(username);
+}
+
+let password;
 
 document.getElementById("signinbutton").onclick = function(){
 username = document.getElementById("password").ariaValueMax;
 console.log(password);
-
-
-
 }

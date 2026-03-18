@@ -195,6 +195,15 @@ p{
   width: 100%;
 }
 
+.signinform{
+
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+
+}
+
 footer{
 
   color: white;

@@ -221,7 +221,7 @@ ul{
   justify-content: center;
   justify-items: center;
   align-items: center;
-  background-color: rgb(29, 135, 197);
+  background-color: rgb(29, 197, 124);
   width: 100%;
   appearance: none;
   outline: none;
@@ -240,7 +240,7 @@ ul{
 .footer{
 
   color: white;
-  background-color: black;
+  background-color: rgb(138, 54, 54);
   text-align: right;
   font-size: .6em;
 

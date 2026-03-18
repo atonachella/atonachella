@@ -18,6 +18,7 @@ a{
 
 hr{
   
+  background-image: linear-gradient(aqua,white);
   border: none;
   height: 3px;
   background-color: aqua;

@@ -195,11 +195,7 @@ p{
   width: 100%;
 }
 
-.ul{
-    list-style-type: none;
-}
-
-.footer{
+footer{
 
   color: rgb(15, 137, 62);
   background-color: rgb(138, 54, 54);

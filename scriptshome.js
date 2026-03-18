@@ -1,4 +1,4 @@
-console.log(`Basic Testing`);
+console.log(`Basic Testing for Home Page`);
 
 //  Display your notes here
 

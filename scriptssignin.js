@@ -4,7 +4,7 @@ console.log(`Basic Testing for Sign In`);
 
 let username;
 
-document.getElementById("signinbutton").onclick = function(){
-username = document.getElementById("username").value;
+document.getElementById("signupbutton").onclick = function(){
+username = document.getElementById("email").value;
 console.log(username);
 }

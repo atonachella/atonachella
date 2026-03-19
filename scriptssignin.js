@@ -1,10 +1,10 @@
-console.log(`Basic Testing for Sign In`);
+console.log(`Basic Testing for Sign Up`);
 
 //  Display your JS notes here
 
-let username;
+let email;
 
 document.getElementById("signupbutton").onclick = function(){
-username = document.getElementById("email").value;
-console.log(username);
+email = document.getElementById("email").value;
+console.log(email);
 }

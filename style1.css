@@ -150,6 +150,10 @@ p{
   align-items: center;
   background-color: black;
   color: white;
+  padding: auto;
+  margin: auto;
+
+
 }
 
 .signupform{

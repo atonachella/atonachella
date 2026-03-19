@@ -129,7 +129,7 @@ p{
 
 .container2 {
   
-  display: table-column;
+  display: flex;
   align-content: center;
   justify-content: center;
   justify-items: center;
@@ -157,12 +157,6 @@ p{
  
 }
  
-.box:hover{
-
-  transition: transform 0.5s ease;
-  transform: scale(1.1);
-  box-shadow: 7px 7px 9px rgb(68, 149, 230), 11px 11px 14px blue;
-}
 
 #box1{
   background-color: black;
@@ -171,36 +165,13 @@ p{
 }
 
 #box2{
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
+  background-color: black;
+  color: white;
 }
 
 #box3{
   background-color: black;
   color: white;
-}
-
-#warning{
-
-  color:rgb(255, 0, 0);
-  align-content: center;
-  justify-content: center;
-  justify-items: center;
-  align-items: center;
-
-}
-
-.container3{
-
-  color: red;
-  display: flex;
-  align-content: top;
-  justify-content: center;
-  justify-items: center;
-  align-items: top;
-  background-color:aquamarine;
-  height: fit-content;
-  width: 100%;
 }
 
 .signupform{

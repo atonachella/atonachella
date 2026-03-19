@@ -181,9 +181,14 @@ p{
   color: white;
 }
 
-.constructionwarning{
+#warning{
 
-  color:white;
+  color:rgb(255, 0, 0);
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+
 }
 
 .container3{

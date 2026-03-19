@@ -130,6 +130,8 @@ p{
 .container2 {
   
   display: flex;
+  align-items: center;
+  align-content: center;
   background-color: gray;
   height: fit-content;
   width: 100%;
@@ -144,10 +146,8 @@ p{
   height: fit-content;
   font-size: 1.1rem;
   justify-content: center;
-  text-align: center;
   border-radius: 20px;
-  padding: 10px;
-  margin: 15px;
+  align-items: center;
   background-color: black;
   color: white;
 }
